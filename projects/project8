@@ -1,0 +1,3 @@
+Network Port Scanner. Tools used: Python
+    • Built a Python script to scan open ports on a given host.
+    • Scanned open ports to identify exposed services that could be exploited by attackers, enabling proactive security hardening.
