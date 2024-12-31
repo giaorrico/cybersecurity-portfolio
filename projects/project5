@@ -1,0 +1,3 @@
+  Import and parse a text file. Tools used: Python
+    • Imported and parsed text files using functions like 'open()' and statements like 'with'.
+    • Used '.split()' method in Python to convert a string to a list.
