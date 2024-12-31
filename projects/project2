@@ -1,0 +1,5 @@
+    Apply filters to SQL queries. Tools used: SQL, Power BI
+    • Detected Unauthorized Login Attempts
+    • Correlated findings across datasets.
+    • Looked for anomalies like spikes in activity or patterns suggesting insider threats.
+    • Used visualization tool (Power BI) for deeper insights.
