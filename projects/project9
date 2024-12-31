@@ -1,0 +1,3 @@
+  Automation with Python. Project: Email Alert System
+    • Automated alert systems to ensure critical notifications are sent promptly when an anomaly is detected, reducing response times.
+    • The script connects to an SMTP server, formats an email, and sends an alert to a recipient.
