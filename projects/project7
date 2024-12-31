@@ -1,0 +1,4 @@
+  Security Incident Tracker. Tools used: SQL
+    • Developed a system to log and track security incidents.
+    • Created a table to log security incidents with details such as description, severity, and status.
+    • By inserting example incidents, the system demonstrates how to track ongoing issues and filter data (e.g., unresolved incidents).
